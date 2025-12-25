@@ -1,0 +1,6 @@
+
+{
+  "name": "Lumina: Creative Spatial Assistant",
+  "description": "An interactive AI-powered design environment for Three.js and creative frontend development. Lumina leverages Gemini to generate 3D scene configurations, UI mockups, and interactive layouts in real-time.",
+  "requestFramePermissions": ["camera"]
+}
